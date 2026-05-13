@@ -52,9 +52,9 @@ Currently working on AI agents & medical AI applications
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jish-k&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Jish-k's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Jish-k&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Jish-k's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jish-k&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jish-k&layout=compact&theme=dracula" alt="Top Languages" />
   <br>
   <img src="https://streak-stats.demolab.com/?user=Jish-k&theme=dracula" alt="GitHub Streak" />
 </p>
